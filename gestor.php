@@ -54,3 +54,4 @@ $verFilas = mysqli_num_rows($exe_consulta);//cuenta cantidad de filas mostradas 
 ?>
 </body>
 </html>
+//se agrega comentario para la prueba
